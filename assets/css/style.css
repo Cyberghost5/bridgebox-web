@@ -323,13 +323,13 @@
 }
 @keyframes b-shadow {
   0% {
-    box-shadow: 0px 0px 0px 20px rgba(59, 38, 219, 0.1), 0px 0px 0px 40px rgba(59, 38, 219, 0.1), 0px 0px 0px 60px rgba(59, 38, 219, 0.1), 0px 0px 0px 80px rgba(59, 38, 219, 0.1), 0px 0px 0px 100px rgba(59, 38, 219, 0.1);
+    box-shadow: 0px 0px 0px 20px rgba(47, 112, 25, 0.1), 0px 0px 0px 40px rgba(47, 112, 25, 0.1), 0px 0px 0px 60px rgba(47, 112, 25, 0.1), 0px 0px 0px 80px rgba(47, 112, 25, 0.1), 0px 0px 0px 100px rgba(47, 112, 25, 0.1);
   }
   50% {
-    box-shadow: 0px 0px 0px 50px rgba(59, 38, 219, 0.1), 0px 0px 0px 75px rgba(59, 38, 219, 0.1), 0px 0px 0px 100px rgba(59, 38, 219, 0.1), 0px 0px 0px 125px rgba(59, 38, 219, 0.1), 0px 0px 0px 150px rgba(59, 38, 219, 0.1);
+    box-shadow: 0px 0px 0px 50px rgba(47, 112, 25, 0.1), 0px 0px 0px 75px rgba(47, 112, 25, 0.1), 0px 0px 0px 100px rgba(47, 112, 25, 0.1), 0px 0px 0px 125px rgba(47, 112, 25, 0.1), 0px 0px 0px 150px rgba(47, 112, 25, 0.1);
   }
   100% {
-    box-shadow: 0px 0px 0px 20px rgba(59, 38, 219, 0.1), 0px 0px 0px 40px rgba(59, 38, 219, 0.1), 0px 0px 0px 60px rgba(59, 38, 219, 0.1), 0px 0px 0px 80px rgba(59, 38, 219, 0.1), 0px 0px 0px 100px rgba(59, 38, 219, 0.1);
+    box-shadow: 0px 0px 0px 20px rgba(47, 112, 25, 0.1), 0px 0px 0px 40px rgba(47, 112, 25, 0.1), 0px 0px 0px 60px rgba(47, 112, 25, 0.1), 0px 0px 0px 80px rgba(47, 112, 25, 0.1), 0px 0px 0px 100px rgba(47, 112, 25, 0.1);
   }
 }
 .owl-carousel .owl-item img {
@@ -3750,7 +3750,7 @@ select:focus {
   content: " ";
   width: 300px;
   height: 300px;
-  background: rgba(59, 38, 219, 0.1);
+  background: rgba(47, 112, 25, 0.1);
   top: 50%;
   left: 50%;
   border-radius: 50%;
